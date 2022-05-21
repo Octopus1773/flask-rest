@@ -45,15 +45,4 @@ _____
 
 ### Документация API
 
-{{URL}}'/api/users'
-{{URL}}'/api/users/<int:user_id>'
-{{URL}}'/api/votes'
-{{URL}}'/api/votes/<int:vote_id>'
-{{URL}}'/api/questions'
-{{URL}}'/api/questions/<int:question_id>'
-{{URL}}'/api/choices'
-{{URL}}'/api/choices/<int:choice_id>'
-{{URL}}'/api/login'
-{{URL}}'/api/logout/access'
-{{URL}}'/api/logout/refresh'
-{{URL}}'/api/token/refresh'
+Примеры выполнения запросов хранятся в [Postman](https://github.com/Octopus1773/flask-rest/blob/main/DmitriyCollection.json) коллекции
